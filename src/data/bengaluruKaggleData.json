@@ -1,0 +1,3032 @@
+{
+  "survey_summary": {
+    "total_responses": 1000,
+    "city": "Bengaluru",
+    "date_range": "2025-02-01 to 2025-04-30",
+    "top_brands": [
+      {
+        "name": "Asian Paints",
+        "count": 272
+      },
+      {
+        "name": "Berger Paints",
+        "count": 248
+      },
+      {
+        "name": "Birla Paints",
+        "count": 205
+      },
+      {
+        "name": "Nippon Paints",
+        "count": 184
+      }
+    ],
+    "customer_preferences": {}
+  },
+  "products": [
+    {
+      "Product ID": "P1",
+      "Product Name": "Premium Interior Paint",
+      "Product Category": "Interior Paint",
+      "Color": "White",
+      "Finish": "Matte",
+      "Size": 1.0,
+      "MRP per unit": 200,
+      "Making Price (Cost Price)": 40
+    },
+    {
+      "Product ID": "P2",
+      "Product Name": "Glossy Exterior Paint",
+      "Product Category": "Exterior Paint",
+      "Color": "Red",
+      "Finish": "Glossy",
+      "Size": 5.0,
+      "MRP per unit": 1000,
+      "Making Price (Cost Price)": 200
+    },
+    {
+      "Product ID": "P3",
+      "Product Name": "Wood Finish Paint",
+      "Product Category": "Wood Paint",
+      "Color": "Oak Brown",
+      "Finish": "Satin",
+      "Size": 0.5,
+      "MRP per unit": 100,
+      "Making Price (Cost Price)": 20
+    },
+    {
+      "Product ID": "P4",
+      "Product Name": "Rust Resistant Metal Paint",
+      "Product Category": "Metal Paint",
+      "Color": "Silver",
+      "Finish": "Glossy",
+      "Size": 1.0,
+      "MRP per unit": 200,
+      "Making Price (Cost Price)": 40
+    },
+    {
+      "Product ID": "P5",
+      "Product Name": "Emulsion Matte Wall Paint",
+      "Product Category": "Interior Paint",
+      "Color": "Light Grey",
+      "Finish": "Matte",
+      "Size": 1.0,
+      "MRP per unit": 200,
+      "Making Price (Cost Price)": 40
+    },
+    {
+      "Product ID": "P6",
+      "Product Name": "Eco-Friendly Wall Paint",
+      "Product Category": "Eco-Friendly Paint",
+      "Color": "Beige",
+      "Finish": "Eggshell",
+      "Size": 2.0,
+      "MRP per unit": 400,
+      "Making Price (Cost Price)": 80
+    },
+    {
+      "Product ID": "P7",
+      "Product Name": "Industrial Coating Paint",
+      "Product Category": "Industrial Paint",
+      "Color": "Dark Blue",
+      "Finish": "Semi-Gloss",
+      "Size": 10.0,
+      "MRP per unit": 2000,
+      "Making Price (Cost Price)": 400
+    },
+    {
+      "Product ID": "P8",
+      "Product Name": "Water-Based Wood Stain",
+      "Product Category": "Wood Paint",
+      "Color": "Walnut Brown",
+      "Finish": "Satin",
+      "Size": 0.5,
+      "MRP per unit": 100,
+      "Making Price (Cost Price)": 20
+    },
+    {
+      "Product ID": "P9",
+      "Product Name": "Premium Glossy Finish Paint",
+      "Product Category": "Exterior Paint",
+      "Color": "Forest Green",
+      "Finish": "Glossy",
+      "Size": 5.0,
+      "MRP per unit": 1000,
+      "Making Price (Cost Price)": 200
+    },
+    {
+      "Product ID": "P10",
+      "Product Name": "Chalkboard Paint",
+      "Product Category": "Specialty Paint",
+      "Color": "Black",
+      "Finish": "Matte",
+      "Size": 0.5,
+      "MRP per unit": 100,
+      "Making Price (Cost Price)": 20
+    },
+    {
+      "Product ID": "P11",
+      "Product Name": "Textured Wall Paint",
+      "Product Category": "Interior Paint",
+      "Color": "Off-White",
+      "Finish": "Textured",
+      "Size": 2.0,
+      "MRP per unit": 400,
+      "Making Price (Cost Price)": 80
+    },
+    {
+      "Product ID": "P12",
+      "Product Name": "Spray Paint Can",
+      "Product Category": "Spray Paint",
+      "Color": "Yellow",
+      "Finish": "Glossy",
+      "Size": 0.5,
+      "MRP per unit": 100,
+      "Making Price (Cost Price)": 20
+    },
+    {
+      "Product ID": "P13",
+      "Product Name": "Oil-Based Enamel Paint",
+      "Product Category": "Metal Paint",
+      "Color": "Blue",
+      "Finish": "High Gloss",
+      "Size": 2.0,
+      "MRP per unit": 400,
+      "Making Price (Cost Price)": 80
+    },
+    {
+      "Product ID": "P14",
+      "Product Name": "High Durability Exterior Paint",
+      "Product Category": "Exterior Paint",
+      "Color": "Charcoal",
+      "Finish": "Satin",
+      "Size": 5.0,
+      "MRP per unit": 1000,
+      "Making Price (Cost Price)": 200
+    },
+    {
+      "Product ID": "P15",
+      "Product Name": "Primer for All Surfaces",
+      "Product Category": "Primer",
+      "Color": "Transparent",
+      "Finish": null,
+      "Size": 1.0,
+      "MRP per unit": 200,
+      "Making Price (Cost Price)": 40
+    },
+    {
+      "Product ID": "P16",
+      "Product Name": "Glossy Wood Finish Paint",
+      "Product Category": "Wood Paint",
+      "Color": "Mahogany",
+      "Finish": "Glossy",
+      "Size": 1.0,
+      "MRP per unit": 200,
+      "Making Price (Cost Price)": 40
+    },
+    {
+      "Product ID": "P17",
+      "Product Name": "Industrial Machine Paint",
+      "Product Category": "Industrial Paint",
+      "Color": "Grey",
+      "Finish": "Matte",
+      "Size": 10.0,
+      "MRP per unit": 2000,
+      "Making Price (Cost Price)": 400
+    },
+    {
+      "Product ID": "P18",
+      "Product Name": "Waterproof Exterior Paint",
+      "Product Category": "Exterior Paint",
+      "Color": "Light Blue",
+      "Finish": "Satin",
+      "Size": 2.0,
+      "MRP per unit": 400,
+      "Making Price (Cost Price)": 80
+    },
+    {
+      "Product ID": "P19",
+      "Product Name": "Matte Interior Wall Paint",
+      "Product Category": "Interior Paint",
+      "Color": "Lavender",
+      "Finish": "Matte",
+      "Size": 1.0,
+      "MRP per unit": 200,
+      "Making Price (Cost Price)": 40
+    },
+    {
+      "Product ID": "P20",
+      "Product Name": "Premium Enamel Metal Paint",
+      "Product Category": "Metal Paint",
+      "Color": "Black",
+      "Finish": "Glossy",
+      "Size": 1.0,
+      "MRP per unit": 200,
+      "Making Price (Cost Price)": 40
+    },
+    {
+      "Product ID": "P21",
+      "Product Name": "Concrete Floor Paint",
+      "Product Category": "Industrial Paint",
+      "Color": "Concrete Grey",
+      "Finish": "Matte",
+      "Size": 10.0,
+      "MRP per unit": 2000,
+      "Making Price (Cost Price)": 400
+    },
+    {
+      "Product ID": "P22",
+      "Product Name": "Anti-Mold Wall Paint",
+      "Product Category": "Interior Paint",
+      "Color": "Ivory",
+      "Finish": "Satin",
+      "Size": 2.0,
+      "MRP per unit": 400,
+      "Making Price (Cost Price)": 80
+    },
+    {
+      "Product ID": "P23",
+      "Product Name": "Non-Toxic Wall Paint",
+      "Product Category": "Eco-Friendly Paint",
+      "Color": "Light Green",
+      "Finish": "Matte",
+      "Size": 2.0,
+      "MRP per unit": 400,
+      "Making Price (Cost Price)": 80
+    },
+    {
+      "Product ID": "P24",
+      "Product Name": "Quick Dry Glossy Finish",
+      "Product Category": "Exterior Paint",
+      "Color": "Red",
+      "Finish": "Glossy",
+      "Size": 1.0,
+      "MRP per unit": 200,
+      "Making Price (Cost Price)": 40
+    },
+    {
+      "Product ID": "P25",
+      "Product Name": "High Performance Wood Finish",
+      "Product Category": "Wood Paint",
+      "Color": "Chestnut",
+      "Finish": "Satin",
+      "Size": 0.5,
+      "MRP per unit": 100,
+      "Making Price (Cost Price)": 20
+    },
+    {
+      "Product ID": "P26",
+      "Product Name": "Outdoor Patio Paint",
+      "Product Category": "Exterior Paint",
+      "Color": "Olive Green",
+      "Finish": "Glossy",
+      "Size": 2.0,
+      "MRP per unit": 400,
+      "Making Price (Cost Price)": 80
+    },
+    {
+      "Product ID": "P27",
+      "Product Name": "Heavy Duty Metal Coating",
+      "Product Category": "Metal Paint",
+      "Color": "Copper",
+      "Finish": "Matte",
+      "Size": 5.0,
+      "MRP per unit": 1000,
+      "Making Price (Cost Price)": 200
+    },
+    {
+      "Product ID": "P28",
+      "Product Name": "Fire-Resistant Paint",
+      "Product Category": "Specialty Paint",
+      "Color": "White",
+      "Finish": "Glossy",
+      "Size": 2.0,
+      "MRP per unit": 400,
+      "Making Price (Cost Price)": 80
+    },
+    {
+      "Product ID": "P29",
+      "Product Name": "Eco-Friendly Spray Paint",
+      "Product Category": "Spray Paint",
+      "Color": "Pink",
+      "Finish": "Glossy",
+      "Size": 0.5,
+      "MRP per unit": 100,
+      "Making Price (Cost Price)": 20
+    },
+    {
+      "Product ID": "P30",
+      "Product Name": "Matte Interior Wall Paint",
+      "Product Category": "Interior Paint",
+      "Color": "Off-White",
+      "Finish": "Matte",
+      "Size": 2.0,
+      "MRP per unit": 400,
+      "Making Price (Cost Price)": 80
+    },
+    {
+      "Product ID": "P31",
+      "Product Name": "UV-Resistant Outdoor Paint",
+      "Product Category": "Exterior Paint",
+      "Color": "Sky Blue",
+      "Finish": "Satin",
+      "Size": 5.0,
+      "MRP per unit": 1000,
+      "Making Price (Cost Price)": 200
+    },
+    {
+      "Product ID": "P32",
+      "Product Name": "Oil-Based Glossy Finish",
+      "Product Category": "Wood Paint",
+      "Color": "Teak Brown",
+      "Finish": "Glossy",
+      "Size": 1.0,
+      "MRP per unit": 200,
+      "Making Price (Cost Price)": 40
+    },
+    {
+      "Product ID": "P33",
+      "Product Name": "Floor Coating Paint",
+      "Product Category": "Industrial Paint",
+      "Color": "Terracotta",
+      "Finish": "Matte",
+      "Size": 5.0,
+      "MRP per unit": 1000,
+      "Making Price (Cost Price)": 200
+    },
+    {
+      "Product ID": "P34",
+      "Product Name": "All-Weather Exterior Paint",
+      "Product Category": "Exterior Paint",
+      "Color": "Deep Green",
+      "Finish": "Glossy",
+      "Size": 5.0,
+      "MRP per unit": 1000,
+      "Making Price (Cost Price)": 200
+    },
+    {
+      "Product ID": "P35",
+      "Product Name": "Glossy High-Performance Paint",
+      "Product Category": "Metal Paint",
+      "Color": "Silver",
+      "Finish": "High Gloss",
+      "Size": 2.0,
+      "MRP per unit": 400,
+      "Making Price (Cost Price)": 80
+    },
+    {
+      "Product ID": "P36",
+      "Product Name": "Non-Yellowing Clear Coat",
+      "Product Category": "Wood Paint",
+      "Color": "Clear",
+      "Finish": "Glossy",
+      "Size": 0.5,
+      "MRP per unit": 100,
+      "Making Price (Cost Price)": 20
+    },
+    {
+      "Product ID": "P37",
+      "Product Name": "Bright White Interior Paint",
+      "Product Category": "Interior Paint",
+      "Color": "Bright White",
+      "Finish": "Matte",
+      "Size": 1.0,
+      "MRP per unit": 200,
+      "Making Price (Cost Price)": 40
+    },
+    {
+      "Product ID": "P38",
+      "Product Name": "Anti-Scuff Glossy Paint",
+      "Product Category": "Interior Paint",
+      "Color": "Sand Beige",
+      "Finish": "Glossy",
+      "Size": 1.0,
+      "MRP per unit": 200,
+      "Making Price (Cost Price)": 40
+    },
+    {
+      "Product ID": "P39",
+      "Product Name": "Color Changing Paint",
+      "Product Category": "Specialty Paint",
+      "Color": "White to Blue",
+      "Finish": "Matte",
+      "Size": 1.0,
+      "MRP per unit": 200,
+      "Making Price (Cost Price)": 40
+    },
+    {
+      "Product ID": "P40",
+      "Product Name": "Wood Protection Varnish",
+      "Product Category": "Wood Paint",
+      "Color": "Transparent",
+      "Finish": "Glossy",
+      "Size": 0.5,
+      "MRP per unit": 100,
+      "Making Price (Cost Price)": 20
+    },
+    {
+      "Product ID": "P41",
+      "Product Name": "Heavy Duty Metal Primer",
+      "Product Category": "Metal Paint",
+      "Color": "Grey",
+      "Finish": "Matte",
+      "Size": 2.0,
+      "MRP per unit": 400,
+      "Making Price (Cost Price)": 80
+    },
+    {
+      "Product ID": "P42",
+      "Product Name": "Textured Concrete Paint",
+      "Product Category": "Specialty Paint",
+      "Color": "Concrete Grey",
+      "Finish": "Textured",
+      "Size": 1.0,
+      "MRP per unit": 200,
+      "Making Price (Cost Price)": 40
+    },
+    {
+      "Product ID": "P43",
+      "Product Name": "Multi-Surface Spray Paint",
+      "Product Category": "Spray Paint",
+      "Color": "Neon Orange",
+      "Finish": "Glossy",
+      "Size": 0.5,
+      "MRP per unit": 100,
+      "Making Price (Cost Price)": 20
+    },
+    {
+      "Product ID": "P44",
+      "Product Name": "Stone Effect Wall Paint",
+      "Product Category": "Interior Paint",
+      "Color": "Stone Grey",
+      "Finish": "Textured",
+      "Size": 2.0,
+      "MRP per unit": 400,
+      "Making Price (Cost Price)": 80
+    },
+    {
+      "Product ID": "P45",
+      "Product Name": "Premium Stone Coating",
+      "Product Category": "Industrial Paint",
+      "Color": "Granite",
+      "Finish": "Matte",
+      "Size": 5.0,
+      "MRP per unit": 1000,
+      "Making Price (Cost Price)": 200
+    },
+    {
+      "Product ID": "P46",
+      "Product Name": "High Gloss Wooden Finish",
+      "Product Category": "Wood Paint",
+      "Color": "Golden Oak",
+      "Finish": "High Gloss",
+      "Size": 1.0,
+      "MRP per unit": 200,
+      "Making Price (Cost Price)": 40
+    },
+    {
+      "Product ID": "P47",
+      "Product Name": "Indoor Moulding Paint",
+      "Product Category": "Interior Paint",
+      "Color": "Soft White",
+      "Finish": "Satin",
+      "Size": 0.5,
+      "MRP per unit": 100,
+      "Making Price (Cost Price)": 20
+    },
+    {
+      "Product ID": "P48",
+      "Product Name": "Antimicrobial Paint",
+      "Product Category": "Interior Paint",
+      "Color": "Light Yellow",
+      "Finish": "Matte",
+      "Size": 2.0,
+      "MRP per unit": 400,
+      "Making Price (Cost Price)": 80
+    },
+    {
+      "Product ID": "P49",
+      "Product Name": "Crystal Clear Varnish",
+      "Product Category": "Wood Paint",
+      "Color": "Clear",
+      "Finish": "Glossy",
+      "Size": 0.5,
+      "MRP per unit": 100,
+      "Making Price (Cost Price)": 20
+    },
+    {
+      "Product ID": "P50",
+      "Product Name": "Multi-Use Glossy Paint",
+      "Product Category": "Metal Paint",
+      "Color": "Red",
+      "Finish": "Glossy",
+      "Size": 5.0,
+      "MRP per unit": 1000,
+      "Making Price (Cost Price)": 200
+    },
+    {
+      "Product ID": "P51",
+      "Product Name": "Soft Touch Matte Paint",
+      "Product Category": "Interior Paint",
+      "Color": "Peach",
+      "Finish": "Matte",
+      "Size": 2.0,
+      "MRP per unit": 400,
+      "Making Price (Cost Price)": 80
+    },
+    {
+      "Product ID": "P52",
+      "Product Name": "Durable Floor Paint",
+      "Product Category": "Industrial Paint",
+      "Color": "Charcoal Grey",
+      "Finish": "Matte",
+      "Size": 10.0,
+      "MRP per unit": 2000,
+      "Making Price (Cost Price)": 400
+    },
+    {
+      "Product ID": "P53",
+      "Product Name": "Bright Interior Wall Paint",
+      "Product Category": "Interior Paint",
+      "Color": "Cool Blue",
+      "Finish": "Matte",
+      "Size": 1.0,
+      "MRP per unit": 200,
+      "Making Price (Cost Price)": 40
+    },
+    {
+      "Product ID": "P54",
+      "Product Name": "Premium Exterior Coating",
+      "Product Category": "Exterior Paint",
+      "Color": "Midnight Black",
+      "Finish": "Glossy",
+      "Size": 1.0,
+      "MRP per unit": 200,
+      "Making Price (Cost Price)": 40
+    },
+    {
+      "Product ID": "P55",
+      "Product Name": "Rustic Wood Stain",
+      "Product Category": "Wood Paint",
+      "Color": "Cedar Brown",
+      "Finish": "Satin",
+      "Size": 0.5,
+      "MRP per unit": 100,
+      "Making Price (Cost Price)": 20
+    },
+    {
+      "Product ID": "P56",
+      "Product Name": "High-Performance Metal Coating",
+      "Product Category": "Metal Paint",
+      "Color": "Gunmetal Grey",
+      "Finish": "Glossy",
+      "Size": 2.0,
+      "MRP per unit": 400,
+      "Making Price (Cost Price)": 80
+    },
+    {
+      "Product ID": "P57",
+      "Product Name": "Soft Matte Wall Finish",
+      "Product Category": "Interior Paint",
+      "Color": "Dusty Rose",
+      "Finish": "Matte",
+      "Size": 2.0,
+      "MRP per unit": 400,
+      "Making Price (Cost Price)": 80
+    },
+    {
+      "Product ID": "P58",
+      "Product Name": "Natural Finish Wall Paint",
+      "Product Category": "Eco-Friendly Paint",
+      "Color": "Light Green",
+      "Finish": "Eggshell",
+      "Size": 1.0,
+      "MRP per unit": 200,
+      "Making Price (Cost Price)": 40
+    },
+    {
+      "Product ID": "P59",
+      "Product Name": "Durable Industrial Coating",
+      "Product Category": "Industrial Paint",
+      "Color": "Steel Blue",
+      "Finish": "Semi-Gloss",
+      "Size": 10.0,
+      "MRP per unit": 2000,
+      "Making Price (Cost Price)": 400
+    },
+    {
+      "Product ID": "P60",
+      "Product Name": "Wood Finish Stain",
+      "Product Category": "Wood Paint",
+      "Color": "Mahogany",
+      "Finish": "Satin",
+      "Size": 0.5,
+      "MRP per unit": 100,
+      "Making Price (Cost Price)": 20
+    },
+    {
+      "Product ID": "P61",
+      "Product Name": "Glossy Finish Exterior Paint",
+      "Product Category": "Exterior Paint",
+      "Color": "Terracotta",
+      "Finish": "Glossy",
+      "Size": 5.0,
+      "MRP per unit": 1000,
+      "Making Price (Cost Price)": 200
+    },
+    {
+      "Product ID": "P62",
+      "Product Name": "Classic Chalkboard Paint",
+      "Product Category": "Specialty Paint",
+      "Color": "Charcoal Black",
+      "Finish": "Matte",
+      "Size": 0.5,
+      "MRP per unit": 100,
+      "Making Price (Cost Price)": 20
+    },
+    {
+      "Product ID": "P63",
+      "Product Name": "Smooth Interior Wall Paint",
+      "Product Category": "Interior Paint",
+      "Color": "Soft Peach",
+      "Finish": "Textured",
+      "Size": 2.0,
+      "MRP per unit": 400,
+      "Making Price (Cost Price)": 80
+    },
+    {
+      "Product ID": "P64",
+      "Product Name": "Bright Yellow Spray Paint",
+      "Product Category": "Spray Paint",
+      "Color": "Neon Yellow",
+      "Finish": "Glossy",
+      "Size": 0.5,
+      "MRP per unit": 100,
+      "Making Price (Cost Price)": 20
+    },
+    {
+      "Product ID": "P65",
+      "Product Name": "Ultra Glossy Metal Finish",
+      "Product Category": "Metal Paint",
+      "Color": "Platinum",
+      "Finish": "High Gloss",
+      "Size": 2.0,
+      "MRP per unit": 400,
+      "Making Price (Cost Price)": 80
+    },
+    {
+      "Product ID": "P66",
+      "Product Name": "All-Weather Exterior Paint",
+      "Product Category": "Exterior Paint",
+      "Color": "Olive Green",
+      "Finish": "Satin",
+      "Size": 5.0,
+      "MRP per unit": 1000,
+      "Making Price (Cost Price)": 200
+    },
+    {
+      "Product ID": "P67",
+      "Product Name": "Fast Drying Wood Finish",
+      "Product Category": "Wood Paint",
+      "Color": "Cherry Red",
+      "Finish": "Glossy",
+      "Size": 1.0,
+      "MRP per unit": 200,
+      "Making Price (Cost Price)": 40
+    },
+    {
+      "Product ID": "P68",
+      "Product Name": "Heavy Duty Industrial Paint",
+      "Product Category": "Industrial Paint",
+      "Color": "Charcoal Black",
+      "Finish": "Matte",
+      "Size": 5.0,
+      "MRP per unit": 1000,
+      "Making Price (Cost Price)": 200
+    },
+    {
+      "Product ID": "P69",
+      "Product Name": "Waterproof Wall Paint",
+      "Product Category": "Exterior Paint",
+      "Color": "Deep Sea Blue",
+      "Finish": "Satin",
+      "Size": 1.0,
+      "MRP per unit": 200,
+      "Making Price (Cost Price)": 40
+    },
+    {
+      "Product ID": "P70",
+      "Product Name": "Low-VOC Interior Paint",
+      "Product Category": "Interior Paint",
+      "Color": "Light Lavender",
+      "Finish": "Matte",
+      "Size": 2.0,
+      "MRP per unit": 400,
+      "Making Price (Cost Price)": 80
+    },
+    {
+      "Product ID": "P71",
+      "Product Name": "Bright White Glossy Wood Finish",
+      "Product Category": "Wood Paint",
+      "Color": "Golden Oak",
+      "Finish": "Glossy",
+      "Size": 10.0,
+      "MRP per unit": 2000,
+      "Making Price (Cost Price)": 400
+    },
+    {
+      "Product ID": "P72",
+      "Product Name": "Protective Metal Paint",
+      "Product Category": "Metal Paint",
+      "Color": "Copper",
+      "Finish": "Glossy",
+      "Size": 2.0,
+      "MRP per unit": 400,
+      "Making Price (Cost Price)": 80
+    },
+    {
+      "Product ID": "P73",
+      "Product Name": "Premium Eco-Friendly Wall Paint",
+      "Product Category": "Eco-Friendly Paint",
+      "Color": "Soft Blue",
+      "Finish": "Eggshell",
+      "Size": 2.0,
+      "MRP per unit": 400,
+      "Making Price (Cost Price)": 80
+    },
+    {
+      "Product ID": "P74",
+      "Product Name": "Textured Concrete Floor Coating",
+      "Product Category": "Industrial Paint",
+      "Color": "Slate Grey",
+      "Finish": "Matte",
+      "Size": 2.0,
+      "MRP per unit": 400,
+      "Making Price (Cost Price)": 80
+    },
+    {
+      "Product ID": "P75",
+      "Product Name": "High Durability Glossy Metal Finish",
+      "Product Category": "Metal Paint",
+      "Color": "Steel Silver",
+      "Finish": "High Gloss",
+      "Size": 1.0,
+      "MRP per unit": 200,
+      "Making Price (Cost Price)": 40
+    },
+    {
+      "Product ID": "P76",
+      "Product Name": "Interior Matte Wall Coating",
+      "Product Category": "Interior Paint",
+      "Color": "Warm Beige",
+      "Finish": "Matte",
+      "Size": 1.0,
+      "MRP per unit": 200,
+      "Making Price (Cost Price)": 40
+    },
+    {
+      "Product ID": "P77",
+      "Product Name": "Weatherproof Exterior Coating",
+      "Product Category": "Exterior Paint",
+      "Color": "Ocean Blue",
+      "Finish": "Glossy",
+      "Size": 2.0,
+      "MRP per unit": 400,
+      "Making Price (Cost Price)": 80
+    },
+    {
+      "Product ID": "P78",
+      "Product Name": "Premium Glossy Wood Protection",
+      "Product Category": "Wood Paint",
+      "Color": "Walnut Brown",
+      "Finish": "Glossy",
+      "Size": 0.5,
+      "MRP per unit": 100,
+      "Making Price (Cost Price)": 20
+    },
+    {
+      "Product ID": "P79",
+      "Product Name": "Quick Drying Rust Protection Paint",
+      "Product Category": "Metal Paint",
+      "Color": "Rust Red",
+      "Finish": "Glossy",
+      "Size": 2.0,
+      "MRP per unit": 400,
+      "Making Price (Cost Price)": 80
+    },
+    {
+      "Product ID": "P80",
+      "Product Name": "Heavy Duty Floor Paint",
+      "Product Category": "Industrial Paint",
+      "Color": "Asphalt Grey",
+      "Finish": "Matte",
+      "Size": 10.0,
+      "MRP per unit": 2000,
+      "Making Price (Cost Price)": 400
+    },
+    {
+      "Product ID": "P81",
+      "Product Name": "Luxury Matte Wall Paint",
+      "Product Category": "Interior Paint",
+      "Color": "Coral Pink",
+      "Finish": "Matte",
+      "Size": 1.0,
+      "MRP per unit": 200,
+      "Making Price (Cost Price)": 40
+    },
+    {
+      "Product ID": "P82",
+      "Product Name": "Vibrant Glossy Exterior Paint",
+      "Product Category": "Exterior Paint",
+      "Color": "Scarlet Red",
+      "Finish": "Glossy",
+      "Size": 5.0,
+      "MRP per unit": 1000,
+      "Making Price (Cost Price)": 200
+    },
+    {
+      "Product ID": "P83",
+      "Product Name": "Deep Wood Finish",
+      "Product Category": "Wood Paint",
+      "Color": "Espresso",
+      "Finish": "Satin",
+      "Size": 0.5,
+      "MRP per unit": 100,
+      "Making Price (Cost Price)": 20
+    },
+    {
+      "Product ID": "P84",
+      "Product Name": "Ultra Strong Metal Coating",
+      "Product Category": "Metal Paint",
+      "Color": "Titanium Grey",
+      "Finish": "Glossy",
+      "Size": 1.0,
+      "MRP per unit": 200,
+      "Making Price (Cost Price)": 40
+    },
+    {
+      "Product ID": "P85",
+      "Product Name": "Satin Finish Wall Paint",
+      "Product Category": "Interior Paint",
+      "Color": "Light Taupe",
+      "Finish": "Satin",
+      "Size": 2.0,
+      "MRP per unit": 400,
+      "Making Price (Cost Price)": 80
+    },
+    {
+      "Product ID": "P86",
+      "Product Name": "Eco-Conscious Wall Coating",
+      "Product Category": "Eco-Friendly Paint",
+      "Color": "Pastel Green",
+      "Finish": "Eggshell",
+      "Size": 1.0,
+      "MRP per unit": 200,
+      "Making Price (Cost Price)": 40
+    },
+    {
+      "Product ID": "P87",
+      "Product Name": "Advanced Rust Shield Paint",
+      "Product Category": "Industrial Paint",
+      "Color": "Dark Grey",
+      "Finish": "Semi-Gloss",
+      "Size": 2.0,
+      "MRP per unit": 400,
+      "Making Price (Cost Price)": 80
+    },
+    {
+      "Product ID": "P88",
+      "Product Name": "Wood Grain Stain",
+      "Product Category": "Wood Paint",
+      "Color": "Redwood",
+      "Finish": "Satin",
+      "Size": 1.0,
+      "MRP per unit": 200,
+      "Making Price (Cost Price)": 40
+    },
+    {
+      "Product ID": "P89",
+      "Product Name": "Smooth Glossy Exterior Paint",
+      "Product Category": "Exterior Paint",
+      "Color": "Dark Olive",
+      "Finish": "Glossy",
+      "Size": 2.0,
+      "MRP per unit": 400,
+      "Making Price (Cost Price)": 80
+    },
+    {
+      "Product ID": "P90",
+      "Product Name": "Classroom Chalkboard Paint",
+      "Product Category": "Specialty Paint",
+      "Color": "Green",
+      "Finish": "Matte",
+      "Size": 0.5,
+      "MRP per unit": 100,
+      "Making Price (Cost Price)": 20
+    },
+    {
+      "Product ID": "P91",
+      "Product Name": "Soft Beige Textured Wall Paint",
+      "Product Category": "Interior Paint",
+      "Color": "Soft Beige",
+      "Finish": "Textured",
+      "Size": 2.0,
+      "MRP per unit": 400,
+      "Making Price (Cost Price)": 80
+    },
+    {
+      "Product ID": "P92",
+      "Product Name": "Neon Green Spray Paint",
+      "Product Category": "Spray Paint",
+      "Color": "Neon Green",
+      "Finish": "Glossy",
+      "Size": 0.5,
+      "MRP per unit": 100,
+      "Making Price (Cost Price)": 20
+    },
+    {
+      "Product ID": "P93",
+      "Product Name": "Super Glossy Metal Finish",
+      "Product Category": "Metal Paint",
+      "Color": "Chrome",
+      "Finish": "High Gloss",
+      "Size": 2.0,
+      "MRP per unit": 400,
+      "Making Price (Cost Price)": 80
+    },
+    {
+      "Product ID": "P94",
+      "Product Name": "Weather-Resistant Exterior Paint",
+      "Product Category": "Exterior Paint",
+      "Color": "Storm Grey",
+      "Finish": "Satin",
+      "Size": 5.0,
+      "MRP per unit": 1000,
+      "Making Price (Cost Price)": 200
+    },
+    {
+      "Product ID": "P95",
+      "Product Name": "Natural Wood Finish",
+      "Product Category": "Wood Paint",
+      "Color": "Teak",
+      "Finish": "Glossy",
+      "Size": 0.5,
+      "MRP per unit": 100,
+      "Making Price (Cost Price)": 20
+    },
+    {
+      "Product ID": "P96",
+      "Product Name": "Heavy Duty Industrial Coating",
+      "Product Category": "Industrial Paint",
+      "Color": "Slate Grey",
+      "Finish": "Matte",
+      "Size": 10.0,
+      "MRP per unit": 2000,
+      "Making Price (Cost Price)": 400
+    },
+    {
+      "Product ID": "P97",
+      "Product Name": "All-Season Waterproof Paint",
+      "Product Category": "Exterior Paint",
+      "Color": "Sky Blue",
+      "Finish": "Satin",
+      "Size": 1.0,
+      "MRP per unit": 200,
+      "Making Price (Cost Price)": 40
+    },
+    {
+      "Product ID": "P98",
+      "Product Name": "Soft Pink Matte Interior Paint",
+      "Product Category": "Interior Paint",
+      "Color": "Soft Pink",
+      "Finish": "Matte",
+      "Size": 1.0,
+      "MRP per unit": 200,
+      "Making Price (Cost Price)": 40
+    },
+    {
+      "Product ID": "P99",
+      "Product Name": "Glossy Natural Wood Finish",
+      "Product Category": "Wood Paint",
+      "Color": "Light Oak",
+      "Finish": "Glossy",
+      "Size": 1.0,
+      "MRP per unit": 200,
+      "Making Price (Cost Price)": 40
+    },
+    {
+      "Product ID": "P100",
+      "Product Name": "Protective Industrial Coating",
+      "Product Category": "Metal Paint",
+      "Color": "Iron Grey",
+      "Finish": "Glossy",
+      "Size": 5.0,
+      "MRP per unit": 1000,
+      "Making Price (Cost Price)": 200
+    }
+  ],
+  "customers": [
+    {
+      "Customer ID": "C1",
+      "Customer Name": "Akanksha Godbole",
+      "Gender": "F",
+      "Location ": "Pune ",
+      "State": "Maharashtra",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C2",
+      "Customer Name": "Krishna Pathak",
+      "Gender": "M",
+      "Location ": "Dehradun ",
+      "State": "Uttarakhand",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C3",
+      "Customer Name": "Deepro Tyagi",
+      "Gender": "M",
+      "Location ": "Vadodara ",
+      "State": "Gujarat",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C4",
+      "Customer Name": "Anjali Bannanje",
+      "Gender": "F",
+      "Location ": "Jammu ",
+      "State": "Jammu & Kashmir",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C5",
+      "Customer Name": "Akshay Gupta",
+      "Gender": "M",
+      "Location ": "Aurangabad ",
+      "State": "Maharashtra",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C6",
+      "Customer Name": "Naitik Dule",
+      "Gender": "M",
+      "Location ": "Mumbai ",
+      "State": "Maharashtra",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C7",
+      "Customer Name": "Manish Natarajan",
+      "Gender": "M",
+      "Location ": "Chandigarh ",
+      "State": "Chandigarh",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C8",
+      "Customer Name": "Afsana Bharucha",
+      "Gender": "F",
+      "Location ": "Indore ",
+      "State": "Madhya Pradesh",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C9",
+      "Customer Name": "Riyasat Ali",
+      "Gender": "M",
+      "Location ": "Kolkata ",
+      "State": "West Bengal",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C10",
+      "Customer Name": "Dinesh Persaud",
+      "Gender": "M",
+      "Location ": "Pune ",
+      "State": "Maharashtra",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C11",
+      "Customer Name": "Akash Dayal",
+      "Gender": "M",
+      "Location ": "Visakhapatnam ",
+      "State": "Andhra Pradesh",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C12",
+      "Customer Name": "Bansi Lal",
+      "Gender": "M",
+      "Location ": "Ahmedabad ",
+      "State": "Gujarat",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C13",
+      "Customer Name": "Vaibhav Mehra",
+      "Gender": "M",
+      "Location ": "Bangalore ",
+      "State": "Karnataka",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C14",
+      "Customer Name": "Alina Ahuja",
+      "Gender": "F",
+      "Location ": "Jammu ",
+      "State": "Jammu & Kashmir",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C15",
+      "Customer Name": "Ganesh Krishnan",
+      "Gender": "M",
+      "Location ": "Patna ",
+      "State": "Bihar",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C16",
+      "Customer Name": "Anurag Varma",
+      "Gender": "M",
+      "Location ": "Chandigarh ",
+      "State": "Chandigarh",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C17",
+      "Customer Name": "Avni Jadhav",
+      "Gender": "F",
+      "Location ": "Aurangabad ",
+      "State": "Maharashtra",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C18",
+      "Customer Name": "Mukhtyar Hussain",
+      "Gender": "M",
+      "Location ": "Ahmedabad ",
+      "State": "Gujarat",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C19",
+      "Customer Name": "Sharat Chandran",
+      "Gender": "M",
+      "Location ": "Bhopal ",
+      "State": "Madhya Pradesh",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C20",
+      "Customer Name": "Divya Bhandarkar",
+      "Gender": "F",
+      "Location ": "Jammu ",
+      "State": "Jammu & Kashmir",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C21",
+      "Customer Name": "Kashish Bagchi",
+      "Gender": "F",
+      "Location ": "Dehradun ",
+      "State": "Uttarakhand",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C22",
+      "Customer Name": "Aniket Menariya",
+      "Gender": "M",
+      "Location ": "Surat ",
+      "State": "Gujarat",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C23",
+      "Customer Name": "Shubham Sagar",
+      "Gender": "M",
+      "Location ": "Surat ",
+      "State": "Gujarat",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C24",
+      "Customer Name": "Arun Kamble",
+      "Gender": "M",
+      "Location ": "Kochi ",
+      "State": "Kerala",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C25",
+      "Customer Name": "Rama Nand",
+      "Gender": "M",
+      "Location ": "Ranchi ",
+      "State": "Jharkhand",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C26",
+      "Customer Name": "Hari Suryakumar",
+      "Gender": "M",
+      "Location ": "Jammu ",
+      "State": "Jammu & Kashmir",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C27",
+      "Customer Name": "Nishita Pisharody",
+      "Gender": "F",
+      "Location ": "Shimla ",
+      "State": "Himachal Pradesh",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C28",
+      "Customer Name": "Sanchit Subramanian",
+      "Gender": "M",
+      "Location ": "Ahmedabad ",
+      "State": "Gujarat",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C29",
+      "Customer Name": "Suraj Singhania",
+      "Gender": "M",
+      "Location ": "Bangalore ",
+      "State": "Karnataka",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C30",
+      "Customer Name": "Shankar Hiremath",
+      "Gender": "M",
+      "Location ": "Goa ",
+      "State": "Goa",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C31",
+      "Customer Name": "Vishal Burewar",
+      "Gender": "M",
+      "Location ": "Coimbatore ",
+      "State": "Tamil Nadu",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C32",
+      "Customer Name": "Arohi  Hartalkar ",
+      "Gender": "F",
+      "Location ": "Goa ",
+      "State": "Goa",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C33",
+      "Customer Name": "Abrahim Shakir",
+      "Gender": "M",
+      "Location ": "Chennai ",
+      "State": "Tamil Nadu",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C34",
+      "Customer Name": "Bilal Malik",
+      "Gender": "M",
+      "Location ": "Mysore ",
+      "State": "Karnataka",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C35",
+      "Customer Name": "Ishita Bhanot",
+      "Gender": "F",
+      "Location ": "Lucknow ",
+      "State": "Uttar Pradesh",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C36",
+      "Customer Name": "Devashish Sahu",
+      "Gender": "M",
+      "Location ": "Aurangabad ",
+      "State": "Maharashtra",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C37",
+      "Customer Name": "Kamre Alam",
+      "Gender": "M",
+      "Location ": "Patiala ",
+      "State": "Punjab",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C38",
+      "Customer Name": "Vedant Sathe",
+      "Gender": "M",
+      "Location ": "Ranchi ",
+      "State": "Jharkhand",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C39",
+      "Customer Name": "Varun Ramachandran",
+      "Gender": "M",
+      "Location ": "Lucknow ",
+      "State": "Uttar Pradesh",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C40",
+      "Customer Name": "Vikram Singh",
+      "Gender": "M",
+      "Location ": "Raipur ",
+      "State": "Chhattisgarh",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C41",
+      "Customer Name": "Radhika Ramgarhia",
+      "Gender": "F",
+      "Location ": "Shimla ",
+      "State": "Himachal Pradesh",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C42",
+      "Customer Name": "Sarthak Yadav",
+      "Gender": "M",
+      "Location ": "Aurangabad ",
+      "State": "Maharashtra",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C43",
+      "Customer Name": "Karan Desai",
+      "Gender": "M",
+      "Location ": "Bhopal ",
+      "State": "Madhya Pradesh",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C44",
+      "Customer Name": "Aboli Daate",
+      "Gender": "F",
+      "Location ": "Coimbatore ",
+      "State": "Tamil Nadu",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C45",
+      "Customer Name": "Aarav Chaudhary",
+      "Gender": "M",
+      "Location ": "Nagpur ",
+      "State": "Maharashtra",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C46",
+      "Customer Name": "Vani Surve",
+      "Gender": "F",
+      "Location ": "Raipur ",
+      "State": "Chhattisgarh",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C47",
+      "Customer Name": "Maryam Farooqui",
+      "Gender": "F",
+      "Location ": "Patna ",
+      "State": "Bihar",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C48",
+      "Customer Name": "Omar Ansari",
+      "Gender": "M",
+      "Location ": "Kochi ",
+      "State": "Kerala",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C49",
+      "Customer Name": "Nikita Detha",
+      "Gender": "F",
+      "Location ": "Aurangabad ",
+      "State": "Maharashtra",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C50",
+      "Customer Name": "Birender Mandal",
+      "Gender": "M",
+      "Location ": "Bangalore ",
+      "State": "Karnataka",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C51",
+      "Customer Name": "Priyadevi Pandey",
+      "Gender": "F",
+      "Location ": "Patna ",
+      "State": "Bihar",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C52",
+      "Customer Name": "Revathi Channappa",
+      "Gender": "F",
+      "Location ": "Raipur ",
+      "State": "Chhattisgarh",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C53",
+      "Customer Name": "Avi Bhalsod",
+      "Gender": "M",
+      "Location ": "Surat ",
+      "State": "Gujarat",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C54",
+      "Customer Name": "Aswini Palaniswami",
+      "Gender": "F",
+      "Location ": "Patna ",
+      "State": "Bihar",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C55",
+      "Customer Name": "Kumar Jain",
+      "Gender": "M",
+      "Location ": "Patiala ",
+      "State": "Punjab",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C56",
+      "Customer Name": "Shivangi Devgan",
+      "Gender": "F",
+      "Location ": "Indore ",
+      "State": "Madhya Pradesh",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C57",
+      "Customer Name": "Sravini Bains",
+      "Gender": "F",
+      "Location ": "Aurangabad ",
+      "State": "Maharashtra",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C58",
+      "Customer Name": "Kartik Zaveri",
+      "Gender": "M",
+      "Location ": "Nagpur ",
+      "State": "Maharashtra",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C59",
+      "Customer Name": "Sayali Menon",
+      "Gender": "F",
+      "Location ": "Nagpur ",
+      "State": "Maharashtra",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C60",
+      "Customer Name": "Mohit Seth",
+      "Gender": "M",
+      "Location ": "Shimla ",
+      "State": "Himachal Pradesh",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C61",
+      "Customer Name": "Natasha Rupekar",
+      "Gender": "F",
+      "Location ": "Visakhapatnam ",
+      "State": "Andhra Pradesh",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C62",
+      "Customer Name": "Krish Puri",
+      "Gender": "M",
+      "Location ": "Vadodara ",
+      "State": "Gujarat",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C63",
+      "Customer Name": "Neeraj Jaiswal",
+      "Gender": "M",
+      "Location ": "Kochi ",
+      "State": "Kerala",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C64",
+      "Customer Name": "Nidhi  Mahamuni ",
+      "Gender": "F",
+      "Location ": "Goa ",
+      "State": "Goa",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C65",
+      "Customer Name": "Parth Goel",
+      "Gender": "M",
+      "Location ": "Shimla ",
+      "State": "Himachal Pradesh",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C66",
+      "Customer Name": "Abhinav Kakkar",
+      "Gender": "M",
+      "Location ": "Mumbai ",
+      "State": "Maharashtra",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C67",
+      "Customer Name": "Preethi Kini",
+      "Gender": "F",
+      "Location ": "Kolkata ",
+      "State": "West Bengal",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C68",
+      "Customer Name": "Soham Kashyap",
+      "Gender": "M",
+      "Location ": "Ahmedabad ",
+      "State": "Gujarat",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C69",
+      "Customer Name": "Amit Bedi",
+      "Gender": "M",
+      "Location ": "Patiala ",
+      "State": "Punjab",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C70",
+      "Customer Name": "Nilam Dhorwade",
+      "Gender": "F",
+      "Location ": "Nagpur ",
+      "State": "Maharashtra",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C71",
+      "Customer Name": "Ram Mandehi",
+      "Gender": "M",
+      "Location ": "Jammu ",
+      "State": "Jammu & Kashmir",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C72",
+      "Customer Name": "Chanchal  Rameshwar ",
+      "Gender": "F",
+      "Location ": "Agra ",
+      "State": "Uttar Pradesh",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C73",
+      "Customer Name": "Harishit Bannur",
+      "Gender": "M",
+      "Location ": "Hyderabad ",
+      "State": "Telangana",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C74",
+      "Customer Name": "Vidya Uppin",
+      "Gender": "F",
+      "Location ": "Jammu ",
+      "State": "Jammu & Kashmir",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C75",
+      "Customer Name": "Shruti Hegde",
+      "Gender": "F",
+      "Location ": "Indore ",
+      "State": "Madhya Pradesh",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C76",
+      "Customer Name": "Chottu Shah",
+      "Gender": "M",
+      "Location ": "Patna ",
+      "State": "Bihar",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C77",
+      "Customer Name": "Sai Ramrao",
+      "Gender": "M",
+      "Location ": "Coimbatore ",
+      "State": "Tamil Nadu",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C78",
+      "Customer Name": "Sumit Trivedi",
+      "Gender": "M",
+      "Location ": "Agra ",
+      "State": "Uttar Pradesh",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C79",
+      "Customer Name": "Rakesh Sonkar",
+      "Gender": "M",
+      "Location ": "Lucknow ",
+      "State": "Uttar Pradesh",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C80",
+      "Customer Name": "Abhishek  Kadu ",
+      "Gender": "M",
+      "Location ": "Chandigarh ",
+      "State": "Chandigarh",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C81",
+      "Customer Name": "Aadhya  Panase ",
+      "Gender": "F",
+      "Location ": "Ahmedabad ",
+      "State": "Gujarat",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C82",
+      "Customer Name": "Ayush Gunjal",
+      "Gender": "M",
+      "Location ": "Indore ",
+      "State": "Madhya Pradesh",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C83",
+      "Customer Name": "Krithika Ramnarine",
+      "Gender": "F",
+      "Location ": "Bangalore ",
+      "State": "Karnataka",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C84",
+      "Customer Name": "Sunitha Deokar",
+      "Gender": "F",
+      "Location ": "Jammu ",
+      "State": "Jammu & Kashmir",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C85",
+      "Customer Name": "Nabav Shekh",
+      "Gender": "M",
+      "Location ": "Ahmedabad ",
+      "State": "Gujarat",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C86",
+      "Customer Name": "Ahmed Syed",
+      "Gender": "M",
+      "Location ": "Chandigarh ",
+      "State": "Chandigarh",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C87",
+      "Customer Name": "Surendra Gawai",
+      "Gender": "M",
+      "Location ": "Hyderabad ",
+      "State": "Telangana",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C88",
+      "Customer Name": "Manoj Chatterjee",
+      "Gender": "M",
+      "Location ": "Nagpur ",
+      "State": "Maharashtra",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C89",
+      "Customer Name": "Vaishnav  Chinchwadkar",
+      "Gender": "M",
+      "Location ": "Vadodara ",
+      "State": "Gujarat",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C90",
+      "Customer Name": "Lalit Kumar",
+      "Gender": "M",
+      "Location ": "Surat ",
+      "State": "Gujarat",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C91",
+      "Customer Name": "Jaya Nair",
+      "Gender": "F",
+      "Location ": "Nagpur ",
+      "State": "Maharashtra",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C92",
+      "Customer Name": "Tushar Prabhune",
+      "Gender": "M",
+      "Location ": "Nagpur ",
+      "State": "Maharashtra",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C93",
+      "Customer Name": "Ashwini Bhatta",
+      "Gender": "F",
+      "Location ": "Lucknow ",
+      "State": "Uttar Pradesh",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C94",
+      "Customer Name": "Arohian  Bhagwat ",
+      "Gender": "M",
+      "Location ": "Coimbatore ",
+      "State": "Tamil Nadu",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C95",
+      "Customer Name": "Varsha Pandore",
+      "Gender": "F",
+      "Location ": "Pune ",
+      "State": "Maharashtra",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C96",
+      "Customer Name": "Anusha Pallavaraiyan",
+      "Gender": "F",
+      "Location ": "Goa ",
+      "State": "Goa",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C97",
+      "Customer Name": "Kausal Suryawanshi",
+      "Gender": "F",
+      "Location ": "Raipur ",
+      "State": "Chhattisgarh",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C98",
+      "Customer Name": "Ghansyam Soni",
+      "Gender": "M",
+      "Location ": "Raipur ",
+      "State": "Chhattisgarh",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C99",
+      "Customer Name": "Dhruv Shinde",
+      "Gender": "M",
+      "Location ": "Nagpur ",
+      "State": "Maharashtra",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C100",
+      "Customer Name": "Ankit Bhatnagar",
+      "Gender": "M",
+      "Location ": "Coimbatore ",
+      "State": "Tamil Nadu",
+      "Country": "India"
+    }
+  ],
+  "sales": [
+    {
+      "Sales ID": "TXN0001",
+      "Date ID": "2023-06-18 00:00:00",
+      "Customer ID": "C100",
+      "ProductID": "P3",
+      "ProductionID": "Prod_48",
+      "Sales Channel ID": "Channel_4",
+      "Units Sold": 28,
+      "inventory": 26,
+      "Discount": 0.1,
+      "selling price": 2520
+    },
+    {
+      "Sales ID": "TXN0002",
+      "Date ID": "2024-09-03 00:00:00",
+      "Customer ID": "C255",
+      "ProductID": "P25",
+      "ProductionID": "Prod_105",
+      "Sales Channel ID": "Channel_5",
+      "Units Sold": 24,
+      "inventory": 21,
+      "Discount": 0.15,
+      "selling price": 2040
+    },
+    {
+      "Sales ID": "TXN0003",
+      "Date ID": "2023-09-09 00:00:00",
+      "Customer ID": "C85",
+      "ProductID": "P50",
+      "ProductionID": "Prod_40",
+      "Sales Channel ID": "Channel_1",
+      "Units Sold": 28,
+      "inventory": 72,
+      "Discount": 0.15,
+      "selling price": 23800
+    },
+    {
+      "Sales ID": "TXN0004",
+      "Date ID": "2024-11-11 00:00:00",
+      "Customer ID": "C132",
+      "ProductID": "P66",
+      "ProductionID": "Prod_172",
+      "Sales Channel ID": "Channel_2",
+      "Units Sold": 18,
+      "inventory": 16,
+      "Discount": 0.1,
+      "selling price": 16200
+    },
+    {
+      "Sales ID": "TXN0005",
+      "Date ID": "2023-10-10 00:00:00",
+      "Customer ID": "C32",
+      "ProductID": "P80",
+      "ProductionID": "Prod_10",
+      "Sales Channel ID": "Channel_3",
+      "Units Sold": 23,
+      "inventory": 2,
+      "Discount": 0.1,
+      "selling price": 41400
+    },
+    {
+      "Sales ID": "TXN0006",
+      "Date ID": "2024-04-17 00:00:00",
+      "Customer ID": "C244",
+      "ProductID": "P52",
+      "ProductionID": "Prod_145",
+      "Sales Channel ID": "Channel_2",
+      "Units Sold": 16,
+      "inventory": 84,
+      "Discount": 0.15,
+      "selling price": 27200
+    },
+    {
+      "Sales ID": "TXN0007",
+      "Date ID": "2024-07-19 00:00:00",
+      "Customer ID": "C125",
+      "ProductID": "P44",
+      "ProductionID": "Prod_64",
+      "Sales Channel ID": "Channel_5",
+      "Units Sold": 22,
+      "inventory": 78,
+      "Discount": 0.15,
+      "selling price": 7480
+    },
+    {
+      "Sales ID": "TXN0008",
+      "Date ID": "2023-10-27 00:00:00",
+      "Customer ID": "C50",
+      "ProductID": "P22",
+      "ProductionID": "Prod_75",
+      "Sales Channel ID": "Channel_5",
+      "Units Sold": 3,
+      "inventory": 84,
+      "Discount": 0.1,
+      "selling price": 1080
+    },
+    {
+      "Sales ID": "TXN0009",
+      "Date ID": "2023-09-27 00:00:00",
+      "Customer ID": "C249",
+      "ProductID": "P74",
+      "ProductionID": "Prod_109",
+      "Sales Channel ID": "Channel_3",
+      "Units Sold": 29,
+      "inventory": 40,
+      "Discount": 0.1,
+      "selling price": 10440
+    },
+    {
+      "Sales ID": "TXN0010",
+      "Date ID": "2024-05-24 00:00:00",
+      "Customer ID": "C277",
+      "ProductID": "P55",
+      "ProductionID": "Prod_76",
+      "Sales Channel ID": "Channel_3",
+      "Units Sold": 18,
+      "inventory": 82,
+      "Discount": 0.1,
+      "selling price": 1620
+    },
+    {
+      "Sales ID": "TXN0011",
+      "Date ID": "2023-03-19 00:00:00",
+      "Customer ID": "C199",
+      "ProductID": "P53",
+      "ProductionID": "Prod_8",
+      "Sales Channel ID": "Channel_5",
+      "Units Sold": 16,
+      "inventory": 17,
+      "Discount": 0.15,
+      "selling price": 2720
+    },
+    {
+      "Sales ID": "TXN0012",
+      "Date ID": "2024-09-29 00:00:00",
+      "Customer ID": "C55",
+      "ProductID": "P24",
+      "ProductionID": "Prod_136",
+      "Sales Channel ID": "Channel_1",
+      "Units Sold": 26,
+      "inventory": 74,
+      "Discount": 0.1,
+      "selling price": 4680
+    },
+    {
+      "Sales ID": "TXN0013",
+      "Date ID": "2023-11-04 00:00:00",
+      "Customer ID": "C287",
+      "ProductID": "P72",
+      "ProductionID": "Prod_61",
+      "Sales Channel ID": "Channel_4",
+      "Units Sold": 3,
+      "inventory": 91,
+      "Discount": 0.05,
+      "selling price": 1140
+    },
+    {
+      "Sales ID": "TXN0014",
+      "Date ID": "2024-07-26 00:00:00",
+      "Customer ID": "C293",
+      "ProductID": "P28",
+      "ProductionID": "Prod_244",
+      "Sales Channel ID": "Channel_4",
+      "Units Sold": 29,
+      "inventory": 71,
+      "Discount": 0.05,
+      "selling price": 11020
+    },
+    {
+      "Sales ID": "TXN0015",
+      "Date ID": "2024-05-06 00:00:00",
+      "Customer ID": "C120",
+      "ProductID": "P81",
+      "ProductionID": "Prod_191",
+      "Sales Channel ID": "Channel_1",
+      "Units Sold": 22,
+      "inventory": 66,
+      "Discount": 0.1,
+      "selling price": 3960
+    },
+    {
+      "Sales ID": "TXN0016",
+      "Date ID": "2023-05-27 00:00:00",
+      "Customer ID": "C202",
+      "ProductID": "P37",
+      "ProductionID": "Prod_4",
+      "Sales Channel ID": "Channel_3",
+      "Units Sold": 28,
+      "inventory": 72,
+      "Discount": 0.05,
+      "selling price": 5320
+    },
+    {
+      "Sales ID": "TXN0017",
+      "Date ID": "2024-09-29 00:00:00",
+      "Customer ID": "C10",
+      "ProductID": "P59",
+      "ProductionID": "Prod_82",
+      "Sales Channel ID": "Channel_2",
+      "Units Sold": 27,
+      "inventory": 4,
+      "Discount": 0.05,
+      "selling price": 51300
+    },
+    {
+      "Sales ID": "TXN0018",
+      "Date ID": "2023-09-26 00:00:00",
+      "Customer ID": "C185",
+      "ProductID": "P84",
+      "ProductionID": "Prod_3",
+      "Sales Channel ID": "Channel_3",
+      "Units Sold": 16,
+      "inventory": 84,
+      "Discount": 0.1,
+      "selling price": 2880
+    },
+    {
+      "Sales ID": "TXN0019",
+      "Date ID": "2023-08-20 00:00:00",
+      "Customer ID": "C165",
+      "ProductID": "P74",
+      "ProductionID": "Prod_77",
+      "Sales Channel ID": "Channel_1",
+      "Units Sold": 11,
+      "inventory": 71,
+      "Discount": 0.05,
+      "selling price": 4180
+    },
+    {
+      "Sales ID": "TXN0020",
+      "Date ID": "2023-07-26 00:00:00",
+      "Customer ID": "C143",
+      "ProductID": "P57",
+      "ProductionID": "Prod_23",
+      "Sales Channel ID": "Channel_5",
+      "Units Sold": 10,
+      "inventory": 90,
+      "Discount": 0.05,
+      "selling price": 3800
+    },
+    {
+      "Sales ID": "TXN0021",
+      "Date ID": "2023-02-26 00:00:00",
+      "Customer ID": "C263",
+      "ProductID": "P37",
+      "ProductionID": "Prod_4",
+      "Sales Channel ID": "Channel_4",
+      "Units Sold": 18,
+      "inventory": 82,
+      "Discount": 0.15,
+      "selling price": 3060
+    },
+    {
+      "Sales ID": "TXN0022",
+      "Date ID": "2024-05-31 00:00:00",
+      "Customer ID": "C238",
+      "ProductID": "P24",
+      "ProductionID": "Prod_136",
+      "Sales Channel ID": "Channel_4",
+      "Units Sold": 10,
+      "inventory": 90,
+      "Discount": 0.15,
+      "selling price": 1700
+    },
+    {
+      "Sales ID": "TXN0023",
+      "Date ID": "2024-03-27 00:00:00",
+      "Customer ID": "C134",
+      "ProductID": "P55",
+      "ProductionID": "Prod_90",
+      "Sales Channel ID": "Channel_3",
+      "Units Sold": 9,
+      "inventory": 91,
+      "Discount": 0.15,
+      "selling price": 765
+    },
+    {
+      "Sales ID": "TXN0024",
+      "Date ID": "2024-04-29 00:00:00",
+      "Customer ID": "C91",
+      "ProductID": "P32",
+      "ProductionID": "Prod_57",
+      "Sales Channel ID": "Channel_4",
+      "Units Sold": 1,
+      "inventory": 55,
+      "Discount": 0.1,
+      "selling price": 180
+    },
+    {
+      "Sales ID": "TXN0025",
+      "Date ID": "2023-07-12 00:00:00",
+      "Customer ID": "C218",
+      "ProductID": "P55",
+      "ProductionID": "Prod_76",
+      "Sales Channel ID": "Channel_2",
+      "Units Sold": 25,
+      "inventory": 75,
+      "Discount": 0.05,
+      "selling price": 2375
+    },
+    {
+      "Sales ID": "TXN0026",
+      "Date ID": "2024-11-02 00:00:00",
+      "Customer ID": "C256",
+      "ProductID": "P57",
+      "ProductionID": "Prod_23",
+      "Sales Channel ID": "Channel_5",
+      "Units Sold": 28,
+      "inventory": 72,
+      "Discount": 0.1,
+      "selling price": 10080
+    },
+    {
+      "Sales ID": "TXN0027",
+      "Date ID": "2023-06-25 00:00:00",
+      "Customer ID": "C231",
+      "ProductID": "P37",
+      "ProductionID": "Prod_4",
+      "Sales Channel ID": "Channel_1",
+      "Units Sold": 12,
+      "inventory": 88,
+      "Discount": 0.05,
+      "selling price": 2280
+    },
+    {
+      "Sales ID": "TXN0028",
+      "Date ID": "2024-12-21 00:00:00",
+      "Customer ID": "C261",
+      "ProductID": "P60",
+      "ProductionID": "Prod_102",
+      "Sales Channel ID": "Channel_1",
+      "Units Sold": 14,
+      "inventory": 86,
+      "Discount": 0.05,
+      "selling price": 1330
+    },
+    {
+      "Sales ID": "TXN0029",
+      "Date ID": "2024-08-27 00:00:00",
+      "Customer ID": "C46",
+      "ProductID": "P19",
+      "ProductionID": "Prod_193",
+      "Sales Channel ID": "Channel_5",
+      "Units Sold": 23,
+      "inventory": 6,
+      "Discount": 0.05,
+      "selling price": 4370
+    },
+    {
+      "Sales ID": "TXN0030",
+      "Date ID": "2023-10-31 00:00:00",
+      "Customer ID": "C72",
+      "ProductID": "P66",
+      "ProductionID": "Prod_29",
+      "Sales Channel ID": "Channel_5",
+      "Units Sold": 29,
+      "inventory": 71,
+      "Discount": 0.15,
+      "selling price": 24650
+    },
+    {
+      "Sales ID": "TXN0031",
+      "Date ID": "2024-09-20 00:00:00",
+      "Customer ID": "C209",
+      "ProductID": "P23",
+      "ProductionID": "Prod_266",
+      "Sales Channel ID": "Channel_2",
+      "Units Sold": 18,
+      "inventory": 50,
+      "Discount": 0.15,
+      "selling price": 6120
+    },
+    {
+      "Sales ID": "TXN0032",
+      "Date ID": "2024-04-22 00:00:00",
+      "Customer ID": "C65",
+      "ProductID": "P47",
+      "ProductionID": "Prod_50",
+      "Sales Channel ID": "Channel_5",
+      "Units Sold": 26,
+      "inventory": 66,
+      "Discount": 0.1,
+      "selling price": 2340
+    },
+    {
+      "Sales ID": "TXN0033",
+      "Date ID": "2024-10-28 00:00:00",
+      "Customer ID": "C33",
+      "ProductID": "P63",
+      "ProductionID": "Prod_225",
+      "Sales Channel ID": "Channel_3",
+      "Units Sold": 25,
+      "inventory": 67,
+      "Discount": 0.05,
+      "selling price": 9500
+    },
+    {
+      "Sales ID": "TXN0034",
+      "Date ID": "2023-07-21 00:00:00",
+      "Customer ID": "C237",
+      "ProductID": "P61",
+      "ProductionID": "Prod_67",
+      "Sales Channel ID": "Channel_2",
+      "Units Sold": 21,
+      "inventory": 79,
+      "Discount": 0.1,
+      "selling price": 18900
+    },
+    {
+      "Sales ID": "TXN0035",
+      "Date ID": "2024-11-17 00:00:00",
+      "Customer ID": "C72",
+      "ProductID": "P16",
+      "ProductionID": "Prod_5",
+      "Sales Channel ID": "Channel_3",
+      "Units Sold": 26,
+      "inventory": 74,
+      "Discount": 0.05,
+      "selling price": 4940
+    },
+    {
+      "Sales ID": "TXN0036",
+      "Date ID": "2024-02-24 00:00:00",
+      "Customer ID": "C254",
+      "ProductID": "P13",
+      "ProductionID": "Prod_148",
+      "Sales Channel ID": "Channel_3",
+      "Units Sold": 15,
+      "inventory": 85,
+      "Discount": 0.1,
+      "selling price": 5400
+    },
+    {
+      "Sales ID": "TXN0037",
+      "Date ID": "2024-01-07 00:00:00",
+      "Customer ID": "C2",
+      "ProductID": "P99",
+      "ProductionID": "Prod_141",
+      "Sales Channel ID": "Channel_2",
+      "Units Sold": 1,
+      "inventory": 39,
+      "Discount": 0.15,
+      "selling price": 170
+    },
+    {
+      "Sales ID": "TXN0038",
+      "Date ID": "2024-07-15 00:00:00",
+      "Customer ID": "C111",
+      "ProductID": "P80",
+      "ProductionID": "Prod_10",
+      "Sales Channel ID": "Channel_3",
+      "Units Sold": 4,
+      "inventory": 23,
+      "Discount": 0.1,
+      "selling price": 7200
+    },
+    {
+      "Sales ID": "TXN0039",
+      "Date ID": "2023-11-14 00:00:00",
+      "Customer ID": "C266",
+      "ProductID": "P85",
+      "ProductionID": "Prod_99",
+      "Sales Channel ID": "Channel_5",
+      "Units Sold": 14,
+      "inventory": 66,
+      "Discount": 0.15,
+      "selling price": 4760
+    },
+    {
+      "Sales ID": "TXN0040",
+      "Date ID": "2024-12-25 00:00:00",
+      "Customer ID": "C87",
+      "ProductID": "P55",
+      "ProductionID": "Prod_76",
+      "Sales Channel ID": "Channel_2",
+      "Units Sold": 16,
+      "inventory": 84,
+      "Discount": 0.1,
+      "selling price": 1440
+    },
+    {
+      "Sales ID": "TXN0041",
+      "Date ID": "2023-11-06 00:00:00",
+      "Customer ID": "C202",
+      "ProductID": "P11",
+      "ProductionID": "Prod_88",
+      "Sales Channel ID": "Channel_2",
+      "Units Sold": 2,
+      "inventory": 40,
+      "Discount": 0.1,
+      "selling price": 720
+    },
+    {
+      "Sales ID": "TXN0042",
+      "Date ID": "2023-12-26 00:00:00",
+      "Customer ID": "C39",
+      "ProductID": "P65",
+      "ProductionID": "Prod_115",
+      "Sales Channel ID": "Channel_5",
+      "Units Sold": 4,
+      "inventory": 76,
+      "Discount": 0.1,
+      "selling price": 1440
+    },
+    {
+      "Sales ID": "TXN0043",
+      "Date ID": "2023-05-01 00:00:00",
+      "Customer ID": "C16",
+      "ProductID": "P90",
+      "ProductionID": "Prod_26",
+      "Sales Channel ID": "Channel_4",
+      "Units Sold": 15,
+      "inventory": 85,
+      "Discount": 0.15,
+      "selling price": 1275
+    },
+    {
+      "Sales ID": "TXN0044",
+      "Date ID": "2023-09-28 00:00:00",
+      "Customer ID": "C58",
+      "ProductID": "P24",
+      "ProductionID": "Prod_7",
+      "Sales Channel ID": "Channel_4",
+      "Units Sold": 19,
+      "inventory": 81,
+      "Discount": 0.15,
+      "selling price": 3230
+    },
+    {
+      "Sales ID": "TXN0045",
+      "Date ID": "2024-10-14 00:00:00",
+      "Customer ID": "C26",
+      "ProductID": "P75",
+      "ProductionID": "Prod_166",
+      "Sales Channel ID": "Channel_5",
+      "Units Sold": 12,
+      "inventory": 88,
+      "Discount": 0.1,
+      "selling price": 2160
+    },
+    {
+      "Sales ID": "TXN0046",
+      "Date ID": "2024-03-18 00:00:00",
+      "Customer ID": "C190",
+      "ProductID": "P42",
+      "ProductionID": "Prod_159",
+      "Sales Channel ID": "Channel_3",
+      "Units Sold": 2,
+      "inventory": 22,
+      "Discount": 0.05,
+      "selling price": 380
+    },
+    {
+      "Sales ID": "TXN0047",
+      "Date ID": "2023-09-02 00:00:00",
+      "Customer ID": "C291",
+      "ProductID": "P21",
+      "ProductionID": "Prod_16",
+      "Sales Channel ID": "Channel_5",
+      "Units Sold": 16,
+      "inventory": 84,
+      "Discount": 0.1,
+      "selling price": 28800
+    },
+    {
+      "Sales ID": "TXN0048",
+      "Date ID": "2023-05-18 00:00:00",
+      "Customer ID": "C202",
+      "ProductID": "P95",
+      "ProductionID": "Prod_12",
+      "Sales Channel ID": "Channel_2",
+      "Units Sold": 16,
+      "inventory": 58,
+      "Discount": 0.05,
+      "selling price": 1520
+    },
+    {
+      "Sales ID": "TXN0049",
+      "Date ID": "2024-01-02 00:00:00",
+      "Customer ID": "C57",
+      "ProductID": "P25",
+      "ProductionID": "Prod_96",
+      "Sales Channel ID": "Channel_3",
+      "Units Sold": 12,
+      "inventory": 88,
+      "Discount": 0.15,
+      "selling price": 1020
+    },
+    {
+      "Sales ID": "TXN0050",
+      "Date ID": "2024-05-15 00:00:00",
+      "Customer ID": "C77",
+      "ProductID": "P79",
+      "ProductionID": "Prod_146",
+      "Sales Channel ID": "Channel_2",
+      "Units Sold": 24,
+      "inventory": 76,
+      "Discount": 0.15,
+      "selling price": 8160
+    },
+    {
+      "Sales ID": "TXN0051",
+      "Date ID": "2024-07-29 00:00:00",
+      "Customer ID": "C219",
+      "ProductID": "P61",
+      "ProductionID": "Prod_234",
+      "Sales Channel ID": "Channel_4",
+      "Units Sold": 7,
+      "inventory": 93,
+      "Discount": 0.1,
+      "selling price": 6300
+    },
+    {
+      "Sales ID": "TXN0052",
+      "Date ID": "2024-06-26 00:00:00",
+      "Customer ID": "C150",
+      "ProductID": "P70",
+      "ProductionID": "Prod_2",
+      "Sales Channel ID": "Channel_4",
+      "Units Sold": 21,
+      "inventory": 77,
+      "Discount": 0.05,
+      "selling price": 7980
+    },
+    {
+      "Sales ID": "TXN0053",
+      "Date ID": "2023-12-09 00:00:00",
+      "Customer ID": "C265",
+      "ProductID": "P61",
+      "ProductionID": "Prod_67",
+      "Sales Channel ID": "Channel_4",
+      "Units Sold": 6,
+      "inventory": 94,
+      "Discount": 0.05,
+      "selling price": 5700
+    },
+    {
+      "Sales ID": "TXN0054",
+      "Date ID": "2024-05-19 00:00:00",
+      "Customer ID": "C38",
+      "ProductID": "P73",
+      "ProductionID": "Prod_104",
+      "Sales Channel ID": "Channel_5",
+      "Units Sold": 1,
+      "inventory": 63,
+      "Discount": 0.05,
+      "selling price": 380
+    },
+    {
+      "Sales ID": "TXN0055",
+      "Date ID": "2023-08-06 00:00:00",
+      "Customer ID": "C147",
+      "ProductID": "P80",
+      "ProductionID": "Prod_71",
+      "Sales Channel ID": "Channel_4",
+      "Units Sold": 20,
+      "inventory": 40,
+      "Discount": 0.05,
+      "selling price": 38000
+    },
+    {
+      "Sales ID": "TXN0056",
+      "Date ID": "2023-08-16 00:00:00",
+      "Customer ID": "C224",
+      "ProductID": "P81",
+      "ProductionID": "Prod_70",
+      "Sales Channel ID": "Channel_2",
+      "Units Sold": 19,
+      "inventory": 81,
+      "Discount": 0.15,
+      "selling price": 3230
+    },
+    {
+      "Sales ID": "TXN0057",
+      "Date ID": "2024-06-21 00:00:00",
+      "Customer ID": "C99",
+      "ProductID": "P37",
+      "ProductionID": "Prod_122",
+      "Sales Channel ID": "Channel_4",
+      "Units Sold": 10,
+      "inventory": 90,
+      "Discount": 0.15,
+      "selling price": 1700
+    },
+    {
+      "Sales ID": "TXN0058",
+      "Date ID": "2023-09-18 00:00:00",
+      "Customer ID": "C68",
+      "ProductID": "P13",
+      "ProductionID": "Prod_49",
+      "Sales Channel ID": "Channel_2",
+      "Units Sold": 12,
+      "inventory": 88,
+      "Discount": 0.15,
+      "selling price": 4080
+    },
+    {
+      "Sales ID": "TXN0059",
+      "Date ID": "2024-05-09 00:00:00",
+      "Customer ID": "C140",
+      "ProductID": "P76",
+      "ProductionID": "Prod_194",
+      "Sales Channel ID": "Channel_2",
+      "Units Sold": 1,
+      "inventory": 99,
+      "Discount": 0.05,
+      "selling price": 190
+    },
+    {
+      "Sales ID": "TXN0060",
+      "Date ID": "2023-06-29 00:00:00",
+      "Customer ID": "C223",
+      "ProductID": "P42",
+      "ProductionID": "Prod_62",
+      "Sales Channel ID": "Channel_3",
+      "Units Sold": 6,
+      "inventory": 50,
+      "Discount": 0.1,
+      "selling price": 1080
+    },
+    {
+      "Sales ID": "TXN0061",
+      "Date ID": "2024-08-09 00:00:00",
+      "Customer ID": "C21",
+      "ProductID": "P3",
+      "ProductionID": "Prod_48",
+      "Sales Channel ID": "Channel_5",
+      "Units Sold": 6,
+      "inventory": 74,
+      "Discount": 0.05,
+      "selling price": 570
+    },
+    {
+      "Sales ID": "TXN0062",
+      "Date ID": "2024-10-21 00:00:00",
+      "Customer ID": "C10",
+      "ProductID": "P72",
+      "ProductionID": "Prod_160",
+      "Sales Channel ID": "Channel_3",
+      "Units Sold": 24,
+      "inventory": 76,
+      "Discount": 0.05,
+      "selling price": 9120
+    },
+    {
+      "Sales ID": "TXN0063",
+      "Date ID": "2023-03-26 00:00:00",
+      "Customer ID": "C277",
+      "ProductID": "P66",
+      "ProductionID": "Prod_29",
+      "Sales Channel ID": "Channel_1",
+      "Units Sold": 28,
+      "inventory": 72,
+      "Discount": 0.1,
+      "selling price": 25200
+    },
+    {
+      "Sales ID": "TXN0064",
+      "Date ID": "2023-10-10 00:00:00",
+      "Customer ID": "C240",
+      "ProductID": "P47",
+      "ProductionID": "Prod_50",
+      "Sales Channel ID": "Channel_5",
+      "Units Sold": 29,
+      "inventory": 71,
+      "Discount": 0.05,
+      "selling price": 2755
+    },
+    {
+      "Sales ID": "TXN0065",
+      "Date ID": "2024-07-16 00:00:00",
+      "Customer ID": "C295",
+      "ProductID": "P66",
+      "ProductionID": "Prod_172",
+      "Sales Channel ID": "Channel_1",
+      "Units Sold": 2,
+      "inventory": 98,
+      "Discount": 0.15,
+      "selling price": 1700
+    },
+    {
+      "Sales ID": "TXN0066",
+      "Date ID": "2024-02-18 00:00:00",
+      "Customer ID": "C155",
+      "ProductID": "P90",
+      "ProductionID": "Prod_26",
+      "Sales Channel ID": "Channel_5",
+      "Units Sold": 19,
+      "inventory": 81,
+      "Discount": 0.1,
+      "selling price": 1710
+    },
+    {
+      "Sales ID": "TXN0067",
+      "Date ID": "2023-11-27 00:00:00",
+      "Customer ID": "C261",
+      "ProductID": "P91",
+      "ProductionID": "Prod_30",
+      "Sales Channel ID": "Channel_1",
+      "Units Sold": 22,
+      "inventory": 78,
+      "Discount": 0.05,
+      "selling price": 8360
+    },
+    {
+      "Sales ID": "TXN0068",
+      "Date ID": "2023-11-10 00:00:00",
+      "Customer ID": "C211",
+      "ProductID": "P23",
+      "ProductionID": "Prod_113",
+      "Sales Channel ID": "Channel_4",
+      "Units Sold": 24,
+      "inventory": 76,
+      "Discount": 0.1,
+      "selling price": 8640
+    },
+    {
+      "Sales ID": "TXN0069",
+      "Date ID": "2024-12-04 00:00:00",
+      "Customer ID": "C93",
+      "ProductID": "P7",
+      "ProductionID": "Prod_169",
+      "Sales Channel ID": "Channel_5",
+      "Units Sold": 2,
+      "inventory": 44,
+      "Discount": 0.15,
+      "selling price": 3400
+    },
+    {
+      "Sales ID": "TXN0070",
+      "Date ID": "2024-06-11 00:00:00",
+      "Customer ID": "C267",
+      "ProductID": "P25",
+      "ProductionID": "Prod_154",
+      "Sales Channel ID": "Channel_3",
+      "Units Sold": 28,
+      "inventory": 72,
+      "Discount": 0.15,
+      "selling price": 2380
+    },
+    {
+      "Sales ID": "TXN0071",
+      "Date ID": "2024-06-10 00:00:00",
+      "Customer ID": "C82",
+      "ProductID": "P55",
+      "ProductionID": "Prod_76",
+      "Sales Channel ID": "Channel_1",
+      "Units Sold": 5,
+      "inventory": 95,
+      "Discount": 0.1,
+      "selling price": 450
+    },
+    {
+      "Sales ID": "TXN0072",
+      "Date ID": "2023-05-23 00:00:00",
+      "Customer ID": "C180",
+      "ProductID": "P7",
+      "ProductionID": "Prod_11",
+      "Sales Channel ID": "Channel_5",
+      "Units Sold": 8,
+      "inventory": 92,
+      "Discount": 0.15,
+      "selling price": 13600
+    },
+    {
+      "Sales ID": "TXN0073",
+      "Date ID": "2024-01-01 00:00:00",
+      "Customer ID": "C114",
+      "ProductID": "P45",
+      "ProductionID": "Prod_32",
+      "Sales Channel ID": "Channel_3",
+      "Units Sold": 29,
+      "inventory": 56,
+      "Discount": 0.15,
+      "selling price": 24650
+    },
+    {
+      "Sales ID": "TXN0074",
+      "Date ID": "2023-05-03 00:00:00",
+      "Customer ID": "C254",
+      "ProductID": "P6",
+      "ProductionID": "Prod_1",
+      "Sales Channel ID": "Channel_1",
+      "Units Sold": 23,
+      "inventory": 21,
+      "Discount": 0.05,
+      "selling price": 8740
+    },
+    {
+      "Sales ID": "TXN0075",
+      "Date ID": "2024-09-05 00:00:00",
+      "Customer ID": "C189",
+      "ProductID": "P59",
+      "ProductionID": "Prod_82",
+      "Sales Channel ID": "Channel_5",
+      "Units Sold": 17,
+      "inventory": 18,
+      "Discount": 0.1,
+      "selling price": 30600
+    },
+    {
+      "Sales ID": "TXN0076",
+      "Date ID": "2024-04-14 00:00:00",
+      "Customer ID": "C238",
+      "ProductID": "P94",
+      "ProductionID": "Prod_74",
+      "Sales Channel ID": "Channel_4",
+      "Units Sold": 11,
+      "inventory": 60,
+      "Discount": 0.15,
+      "selling price": 9350
+    },
+    {
+      "Sales ID": "TXN0077",
+      "Date ID": "2024-11-16 00:00:00",
+      "Customer ID": "C32",
+      "ProductID": "P53",
+      "ProductionID": "Prod_208",
+      "Sales Channel ID": "Channel_2",
+      "Units Sold": 3,
+      "inventory": 89,
+      "Discount": 0.15,
+      "selling price": 510
+    },
+    {
+      "Sales ID": "TXN0078",
+      "Date ID": "2024-01-18 00:00:00",
+      "Customer ID": "C74",
+      "ProductID": "P20",
+      "ProductionID": "Prod_14",
+      "Sales Channel ID": "Channel_2",
+      "Units Sold": 22,
+      "inventory": 78,
+      "Discount": 0.05,
+      "selling price": 4180
+    },
+    {
+      "Sales ID": "TXN0079",
+      "Date ID": "2023-08-04 00:00:00",
+      "Customer ID": "C56",
+      "ProductID": "P79",
+      "ProductionID": "Prod_9",
+      "Sales Channel ID": "Channel_1",
+      "Units Sold": 28,
+      "inventory": 72,
+      "Discount": 0.05,
+      "selling price": 10640
+    },
+    {
+      "Sales ID": "TXN0080",
+      "Date ID": "2023-06-07 00:00:00",
+      "Customer ID": "C83",
+      "ProductID": "P93",
+      "ProductionID": "Prod_69",
+      "Sales Channel ID": "Channel_5",
+      "Units Sold": 14,
+      "inventory": 86,
+      "Discount": 0.15,
+      "selling price": 4760
+    },
+    {
+      "Sales ID": "TXN0081",
+      "Date ID": "2024-06-17 00:00:00",
+      "Customer ID": "C195",
+      "ProductID": "P30",
+      "ProductionID": "Prod_177",
+      "Sales Channel ID": "Channel_2",
+      "Units Sold": 9,
+      "inventory": 91,
+      "Discount": 0.05,
+      "selling price": 3420
+    },
+    {
+      "Sales ID": "TXN0082",
+      "Date ID": "2024-05-31 00:00:00",
+      "Customer ID": "C135",
+      "ProductID": "P40",
+      "ProductionID": "Prod_51",
+      "Sales Channel ID": "Channel_1",
+      "Units Sold": 11,
+      "inventory": 89,
+      "Discount": 0.05,
+      "selling price": 1045
+    },
+    {
+      "Sales ID": "TXN0083",
+      "Date ID": "2024-01-20 00:00:00",
+      "Customer ID": "C143",
+      "ProductID": "P100",
+      "ProductionID": "Prod_133",
+      "Sales Channel ID": "Channel_5",
+      "Units Sold": 24,
+      "inventory": 49,
+      "Discount": 0.1,
+      "selling price": 21600
+    },
+    {
+      "Sales ID": "TXN0084",
+      "Date ID": "2023-12-07 00:00:00",
+      "Customer ID": "C264",
+      "ProductID": "P64",
+      "ProductionID": "Prod_150",
+      "Sales Channel ID": "Channel_1",
+      "Units Sold": 4,
+      "inventory": 96,
+      "Discount": 0.15,
+      "selling price": 340
+    },
+    {
+      "Sales ID": "TXN0085",
+      "Date ID": "2023-05-16 00:00:00",
+      "Customer ID": "C121",
+      "ProductID": "P79",
+      "ProductionID": "Prod_9",
+      "Sales Channel ID": "Channel_3",
+      "Units Sold": 27,
+      "inventory": 73,
+      "Discount": 0.15,
+      "selling price": 9180
+    },
+    {
+      "Sales ID": "TXN0086",
+      "Date ID": "2024-04-29 00:00:00",
+      "Customer ID": "C203",
+      "ProductID": "P22",
+      "ProductionID": "Prod_75",
+      "Sales Channel ID": "Channel_1",
+      "Units Sold": 24,
+      "inventory": 76,
+      "Discount": 0.15,
+      "selling price": 8160
+    },
+    {
+      "Sales ID": "TXN0087",
+      "Date ID": "2024-12-21 00:00:00",
+      "Customer ID": "C90",
+      "ProductID": "P37",
+      "ProductionID": "Prod_273",
+      "Sales Channel ID": "Channel_1",
+      "Units Sold": 10,
+      "inventory": 90,
+      "Discount": 0.15,
+      "selling price": 1700
+    },
+    {
+      "Sales ID": "TXN0088",
+      "Date ID": "2024-09-28 00:00:00",
+      "Customer ID": "C139",
+      "ProductID": "P14",
+      "ProductionID": "Prod_6",
+      "Sales Channel ID": "Channel_3",
+      "Units Sold": 25,
+      "inventory": 46,
+      "Discount": 0.15,
+      "selling price": 21250
+    },
+    {
+      "Sales ID": "TXN0089",
+      "Date ID": "2024-11-02 00:00:00",
+      "Customer ID": "C123",
+      "ProductID": "P20",
+      "ProductionID": "Prod_14",
+      "Sales Channel ID": "Channel_4",
+      "Units Sold": 12,
+      "inventory": 88,
+      "Discount": 0.15,
+      "selling price": 2040
+    },
+    {
+      "Sales ID": "TXN0090",
+      "Date ID": "2024-06-23 00:00:00",
+      "Customer ID": "C194",
+      "ProductID": "P74",
+      "ProductionID": "Prod_77",
+      "Sales Channel ID": "Channel_1",
+      "Units Sold": 19,
+      "inventory": 81,
+      "Discount": 0.05,
+      "selling price": 7220
+    },
+    {
+      "Sales ID": "TXN0091",
+      "Date ID": "2024-01-18 00:00:00",
+      "Customer ID": "C171",
+      "ProductID": "P91",
+      "ProductionID": "Prod_120",
+      "Sales Channel ID": "Channel_1",
+      "Units Sold": 28,
+      "inventory": 72,
+      "Discount": 0.15,
+      "selling price": 9520
+    },
+    {
+      "Sales ID": "TXN0092",
+      "Date ID": "2023-12-12 00:00:00",
+      "Customer ID": "C237",
+      "ProductID": "P16",
+      "ProductionID": "Prod_59",
+      "Sales Channel ID": "Channel_1",
+      "Units Sold": 15,
+      "inventory": 85,
+      "Discount": 0.05,
+      "selling price": 2850
+    },
+    {
+      "Sales ID": "TXN0093",
+      "Date ID": "2023-10-09 00:00:00",
+      "Customer ID": "C300",
+      "ProductID": "P80",
+      "ProductionID": "Prod_10",
+      "Sales Channel ID": "Channel_1",
+      "Units Sold": 15,
+      "inventory": 50,
+      "Discount": 0.15,
+      "selling price": 25500
+    },
+    {
+      "Sales ID": "TXN0094",
+      "Date ID": "2023-07-11 00:00:00",
+      "Customer ID": "C194",
+      "ProductID": "P20",
+      "ProductionID": "Prod_22",
+      "Sales Channel ID": "Channel_5",
+      "Units Sold": 18,
+      "inventory": 82,
+      "Discount": 0.1,
+      "selling price": 3240
+    },
+    {
+      "Sales ID": "TXN0095",
+      "Date ID": "2024-08-22 00:00:00",
+      "Customer ID": "C218",
+      "ProductID": "P53",
+      "ProductionID": "Prod_8",
+      "Sales Channel ID": "Channel_2",
+      "Units Sold": 28,
+      "inventory": 72,
+      "Discount": 0.05,
+      "selling price": 5320
+    },
+    {
+      "Sales ID": "TXN0096",
+      "Date ID": "2024-11-19 00:00:00",
+      "Customer ID": "C223",
+      "ProductID": "P22",
+      "ProductionID": "Prod_75",
+      "Sales Channel ID": "Channel_4",
+      "Units Sold": 26,
+      "inventory": 74,
+      "Discount": 0.1,
+      "selling price": 9360
+    },
+    {
+      "Sales ID": "TXN0097",
+      "Date ID": "2024-11-15 00:00:00",
+      "Customer ID": "C255",
+      "ProductID": "P32",
+      "ProductionID": "Prod_36",
+      "Sales Channel ID": "Channel_2",
+      "Units Sold": 14,
+      "inventory": 86,
+      "Discount": 0.15,
+      "selling price": 2380
+    },
+    {
+      "Sales ID": "TXN0098",
+      "Date ID": "2023-11-05 00:00:00",
+      "Customer ID": "C52",
+      "ProductID": "P40",
+      "ProductionID": "Prod_51",
+      "Sales Channel ID": "Channel_5",
+      "Units Sold": 23,
+      "inventory": 77,
+      "Discount": 0.05,
+      "selling price": 2185
+    },
+    {
+      "Sales ID": "TXN0099",
+      "Date ID": "2023-09-04 00:00:00",
+      "Customer ID": "C178",
+      "ProductID": "P22",
+      "ProductionID": "Prod_84",
+      "Sales Channel ID": "Channel_5",
+      "Units Sold": 8,
+      "inventory": 92,
+      "Discount": 0.1,
+      "selling price": 2880
+    },
+    {
+      "Sales ID": "TXN0100",
+      "Date ID": "2023-09-27 00:00:00",
+      "Customer ID": "C191",
+      "ProductID": "P43",
+      "ProductionID": "Prod_18",
+      "Sales Channel ID": "Channel_3",
+      "Units Sold": 7,
+      "inventory": 72,
+      "Discount": 0.1,
+      "selling price": 630
+    }
+  ]
+}
