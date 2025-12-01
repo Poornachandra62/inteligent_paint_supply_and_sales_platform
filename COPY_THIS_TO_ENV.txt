@@ -1,2 +1,0 @@
-VITE_AI_API_KEY=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
-VITE_AI_API_URL=https://openrouter.ai/api/v1/chat/completions
